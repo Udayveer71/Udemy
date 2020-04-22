@@ -1,0 +1,30 @@
+html{
+	height: 125%;
+}
+body{
+	background-image: url(pf_unsplash.jpg);
+	background-position: center;
+	background-size: cover;
+	font-family: 'Baloo Paaji 2', cursive;
+}
+.col-lg-12{
+	text-align: center;
+	padding-top: 21%;
+	color: #FFFFFF;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 16px 23px rgba(0,0,0,0.1);
+}
+/*.navbar-inverse .navbar-brand {
+    color: white;
+}
+.navbar-inverse .navbar-nav>li>a{
+	 color: white;
+}*/
+#line{
+	width: 30vw ;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
